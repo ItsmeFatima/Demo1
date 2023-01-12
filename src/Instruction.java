@@ -17,5 +17,7 @@ public class Instruction {
 // unstaged changes will contain all files which are not part of your local repository
 // commit a file to local repository we have to add that file to staged changes
 // or 
-// I made some changes.
+
+//I made some changes 
+
 //
